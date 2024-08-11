@@ -1,0 +1,1 @@
+# Japanese-News-Genre-Classification-Task-Solution-Using-Gemma2-2B_20240811
