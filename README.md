@@ -3,9 +3,13 @@
 # Gemma2-2Bによるlivedoor-newsデータを用いたニュースの5クラス判別用モデル構築
 
 
-livedoor-newsデータ(1)を用いた9クラスのニュース判別問題を finetuneしたGemma2-2Bで80%超の精度を達成
+livedoor-newsデータ(1)を用いた5クラスのニュース判別問題を finetuneしたGemma2-2Bで80%超の精度を達成
 
 Achieve more than 80% accuracy with finetuned Gemma2-2B for 5 class-news-classification problem using livedoor-news data
+
+
+![Screenshot 2024-08-12 23 52 33](https://github.com/user-attachments/assets/9c6d843e-b125-403a-8c20-61bf5287b20c)
+
 
 trainingデータ 100サンプルとtestデータ 1000サンプルでファイン・チューニング
 
