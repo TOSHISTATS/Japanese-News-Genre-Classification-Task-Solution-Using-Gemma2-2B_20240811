@@ -1,6 +1,8 @@
 # Japanese-News-Genre-Classification-Task-Solution-Using-Gemma2-2B_20240811
 
-Gemma2-2Bによるlivedoor-newsデータを用いたニュースの5クラス判別問題 / Japanese-News-Genre-Classification-Task-Solution-Using-Gemma2-2B
+# Gemma2-2Bによるlivedoor-newsデータを用いたニュースの5クラス判別問題 / Japanese-News-Genre-Classification-Task-Solution-Using-Gemma2-2B_20240811
+
+
 livedoor-newsデータ(1)を用いた9クラスのニュース判別問題を finetuneしたGemma2-2Bで80%超の精度を達成
 
 Achieve more than 80% accuracy with finetuned Gemma2-2B for 5 class-news-classification problem using livedoor-news data
